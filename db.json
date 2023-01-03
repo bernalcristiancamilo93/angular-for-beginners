@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "name": "Camilo",
+      "age": 30,
+      "id": "vzXsg6N"
+    },
+    {
+      "name": "Laura",
+      "age": 30,
+      "id": "B_tImBF"
+    },
+    {
+      "name": "Ana",
+      "age": 30,
+      "id": "KK_7j68"
+    },
+    {
+      "name": "Nicolás",
+      "age": 30,
+      "id": "7FzS0Kt"
+    },
+    {
+      "name": "Beatriz",
+      "age": 30,
+      "id": "DSkTwcG"
+    },
+    {
+      "name": "Érica",
+      "age": 30,
+      "id": "rc9lDXd"
+    }
+  ]
+}
